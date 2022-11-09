@@ -1,6 +1,7 @@
 ~For Windows
 1.install python.exe file for official website
 2.pip install pyautogui
+3.py -m pip install pyautogui
 
 
 ~For Linux
